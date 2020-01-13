@@ -1,0 +1,7 @@
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\obj\Debug\LAB3A.csprojAssemblyReference.cache
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\obj\Debug\LAB3A.csproj.CoreCompileInputs.cache
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\bin\Debug\LAB3A.exe.config
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\bin\Debug\LAB3A.exe
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\bin\Debug\LAB3A.pdb
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\obj\Debug\LAB3A.exe
+C:\Users\CHIRAG\source\repos\LAB3A\LAB3A\obj\Debug\LAB3A.pdb
